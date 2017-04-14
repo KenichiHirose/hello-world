@@ -1,4 +1,6 @@
 # hello-world
 first repository
 
-Readmeを書き換えた
+Readmeを書き換え
+
+［た］を削除
